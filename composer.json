@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-predictive-models","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\PredictiveModels\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\PredictiveModels\\PredictiveModelsServiceProvider"]},"liberu":{"name":"crm-predictive-models"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-predictive-models","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\PredictiveModels\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\PredictiveModels\\PredictiveModelsServiceProvider"]},"liberu":{"name":"crm-predictive-models"}},"description":"Scoring, risk, forecasts, model registry, evaluation, drift and explanations","license":"MIT"}
